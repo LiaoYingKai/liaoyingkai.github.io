@@ -2,13 +2,13 @@
 module.exports = {
   title: 'Kai.Dev',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://LiaoYingKai.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'LiaoYingKai', // Usually your GitHub org/user name.
+  projectName: 'kai.dev', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Kai.Dev',
