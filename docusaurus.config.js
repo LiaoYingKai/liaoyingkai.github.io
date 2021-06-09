@@ -3,7 +3,7 @@ module.exports = {
   title: 'Kai.Dev',
   tagline: 'Dinosaurs are cool',
   url: 'https://LiaoYingKai.github.io',
-  baseUrl: '/',
+  baseUrl: '/kai.dev/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
