@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
+  title: 'Kai.Dev',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -11,9 +11,9 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Kai.Dev',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Kai.Dev Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -23,7 +23,7 @@ module.exports = {
           position: 'left',
           label: 'Docs',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        // {to: '/blog', label: 'Blog', position: 'left'},
         // {to: '/project', label: 'Project', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
@@ -42,10 +42,10 @@ module.exports = {
               label: 'Docs',
               to: '/docs/intro',
             },
-            {
-              label: 'Blog',
-              to: '/blog',
-            }
+            // {
+            //   label: 'Blog',
+            //   to: '/blog',
+            // }
           ],
         },
         {
@@ -62,15 +62,6 @@ module.exports = {
             {
               label: 'Linkedin',
               href: 'https://www.linkedin.com/in/%E8%8B%B1%E5%87%B1-%E5%BB%96-23771b171/',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
             },
           ],
         },
