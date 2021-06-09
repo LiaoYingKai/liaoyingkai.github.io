@@ -23,8 +23,8 @@ module.exports = {
           position: 'left',
           label: 'Docs',
         },
-        // {to: '/blog', label: 'Blog', position: 'left'},
-        // {to: '/project', label: 'Project', position: 'left'},
+        {to: '/blog', label: 'Blog', position: 'left' },
+        {to: '/project', label: 'Project', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -34,38 +34,38 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Content',
-          items: [
-            {
-              label: 'Docs',
-              to: '/docs/intro',
-            },
-            // {
-            //   label: 'Blog',
-            //   to: '/blog',
-            // }
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Facebook',
-              href: 'https://www.facebook.com/profile.php?id=100000371132182',
-            },
-            {
-              label: 'Github',
-              href: 'https://github.com/LiaoYingKai?tab=repositories',
-            },
-            {
-              label: 'Linkedin',
-              href: 'https://www.linkedin.com/in/%E8%8B%B1%E5%87%B1-%E5%BB%96-23771b171/',
-            },
-          ],
-        },
-      ],
+      // links: [
+      //   {
+      //     title: 'Content',
+      //     items: [
+      //       {
+      //         label: 'Docs',
+      //         to: '/docs/intro',
+      //       },
+      //       {
+      //         label: 'Blog',
+      //         to: '/blog',
+      //       }
+      //     ],
+      //   },
+      //   {
+      //     title: 'Community',
+      //     items: [
+      //       {
+      //         label: 'Facebook',
+      //         href: 'https://www.facebook.com/profile.php?id=100000371132182',
+      //       },
+      //       {
+      //         label: 'Github',
+      //         href: 'https://github.com/LiaoYingKai?tab=repositories',
+      //       },
+      //       {
+      //         label: 'Linkedin',
+      //         href: 'https://www.linkedin.com/in/%E8%8B%B1%E5%87%B1-%E5%BB%96-23771b171/',
+      //       },
+      //     ],
+      //   },
+      // ],
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
