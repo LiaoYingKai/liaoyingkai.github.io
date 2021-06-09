@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LiaoYingKai.github.io/blog</id>
     <title>Kai.Dev Blog</title>
-    <updated>2015-10-25T23:29:00.000Z</updated>
+    <updated>2021-06-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://LiaoYingKai.github.io/blog"/>
     <subtitle>Kai.Dev Blog</subtitle>
     <icon>https://LiaoYingKai.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[五子棋遊戲 - 勝利判斷]]></title>
+        <id>五子棋遊戲 - 勝利判斷</id>
+        <link href="https://LiaoYingKai.github.io/blog/2021/06/09/gobang"/>
+        <updated>2021-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[實作五子棋遊戲，並可以線上對弈.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOLID in FrontEnd]]></title>
+        <id>SOLID in FrontEnd</id>
+        <link href="https://LiaoYingKai.github.io/blog/2021/06/09/solid-in-frontend"/>
+        <updated>2021-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[解釋認知的 SOLID 與前端應用的情景.]]></summary>
+    </entry>
 </feed>

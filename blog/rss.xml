@@ -4,8 +4,22 @@
         <title>Kai.Dev Blog</title>
         <link>https://LiaoYingKai.github.io/blog</link>
         <description>Kai.Dev Blog</description>
-        <lastBuildDate>Sun, 25 Oct 2015 23:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[五子棋遊戲 - 勝利判斷]]></title>
+            <link>https://LiaoYingKai.github.io/blog/2021/06/09/gobang</link>
+            <guid>五子棋遊戲 - 勝利判斷</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[實作五子棋遊戲，並可以線上對弈.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SOLID in FrontEnd]]></title>
+            <link>https://LiaoYingKai.github.io/blog/2021/06/09/solid-in-frontend</link>
+            <guid>SOLID in FrontEnd</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[解釋認知的 SOLID 與前端應用的情景.]]></description>
+        </item>
     </channel>
 </rss>

@@ -1,0 +1,1 @@
+(self.webpackChunkkai_dev=self.webpackChunkkai_dev||[]).push([[713],{7485:function(e){"use strict";e.exports=JSON.parse('{"frontend":{"allTagsPath":"/blog/tags","slug":"frontend","name":"frontend","count":2,"permalink":"/blog/tags/frontend"}}')}}]);

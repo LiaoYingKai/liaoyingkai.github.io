@@ -1,0 +1,1 @@
+(self.webpackChunkkai_dev=self.webpackChunkkai_dev||[]).push([[567],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u4e94\u5b50\u68cb\u904a\u6232 - \u52dd\u5229\u5224\u65b7","permalink":"/blog/2021/06/09/gobang"},{"title":"SOLID in FrontEnd","permalink":"/blog/2021/06/09/solid-in-frontend"}]}')}}]);
