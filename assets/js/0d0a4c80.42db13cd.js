@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkai_dev=self.webpackChunkkai_dev||[]).push([[933],{2440:e=>{e.exports=JSON.parse('{"title":"React","description":"5 minutes to learn the most important Docusaurus concepts.","slug":"/category/react","permalink":"/docs/category/react","navigation":{"next":{"title":"React.StrictMode","permalink":"/docs/React/StrictMode"}}}')}}]);
