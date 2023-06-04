@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkai_dev=self.webpackChunkkai_dev||[]).push([[4933],{2440:e=>{e.exports=JSON.parse('{"title":"React","description":"\u7d00\u9304\u8ddf React \u76f8\u95dc\u7684\u5b78\u7fd2\u7b46\u8a18","slug":"/category/react","permalink":"/docs/category/react","navigation":{"next":{"title":"StrictMode","permalink":"/docs/React/StrictMode"}}}')}}]);

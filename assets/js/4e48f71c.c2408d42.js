@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkai_dev=self.webpackChunkkai_dev||[]).push([[424],{2622:e=>{e.exports=JSON.parse('{"title":"Go","description":"Go study","slug":"/category/go","permalink":"/docs/category/go","navigation":{"next":{"title":"Hello Go","permalink":"/docs/Go/HelloGo"}}}')}}]);
